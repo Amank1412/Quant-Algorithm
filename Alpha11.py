@@ -1,0 +1,1 @@
+sqrt(rank(ts_mean(volume, 5) / ts_mean (volume,240)))

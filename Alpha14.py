@@ -1,0 +1,1 @@
+	-ts_mean(mdf_cap,10)

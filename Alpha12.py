@@ -1,0 +1,1 @@
+-ts_av_diff(mdf_eg3, 250)*ts_corr(mdf_eg3, mdf_sg3, 250)

@@ -1,0 +1,1 @@
+group_rank(ts_delta(cashflow_op/income,252),industry)

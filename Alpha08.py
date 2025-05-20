@@ -1,0 +1,1 @@
+trade_when (ts_rank(ts_std_dev (returns,22 ), 252)>0.55, -ts_regression(returns,ts_delay(returns,1) , 252),-1)

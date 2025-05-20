@@ -1,0 +1,1 @@
+-ts_delta(close,5)

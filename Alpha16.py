@@ -1,0 +1,1 @@
+-rank(fnd6_cptmfmq_oibdpq)

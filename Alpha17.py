@@ -1,0 +1,1 @@
+	ts_mean(mdf_bet,10)

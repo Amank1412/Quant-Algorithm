@@ -1,0 +1,1 @@
+-rank(fnd6_newa1v1300_epspi)

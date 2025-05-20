@@ -1,0 +1,1 @@
+group_rank(-ts_zscore(enterprise_value/ebitda,63),subindustry)

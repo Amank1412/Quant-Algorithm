@@ -1,0 +1,1 @@
+-rank(return_assets)
